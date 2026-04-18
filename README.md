@@ -1,4 +1,4 @@
-# 🧠 Regulatory Compliance Validation Demo
+# Policy Compliance Validator
 
 This project demonstrates a system for validating internal Policies and Procedures (P&Ps) against regulatory requirements.
 
@@ -38,9 +38,7 @@ These can come from:
 
 ## 🏗️ Architecture
 
-Input
-  ├── Questionnaire
-  └── Policy Guide
+Questionnaire or Policy Guide
 
 ↓ (LLM extraction)
 
@@ -56,18 +54,21 @@ Validation Results
 
 ### 1. Clone repo
 
-git clone <repo>
-cd <repo>
+```git clone https://github.com/tristenallgaier2023/readily-module.git```
+
+```cd readily-module```
 
 ### 2. Create virtual env
 
-python -m venv .venv
-source .venv/bin/activate     # Mac/Linux
-.venv\Scripts\activate        # Windows
+```python -m venv .venv```
+
+```source .venv/bin/activate```     # Mac/Linux
+
+```.venv\Scripts\activate```        # Windows
 
 ### 3. Install dependencies
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ---
 
@@ -83,7 +84,7 @@ OPENAI_API_KEY = "your_key_here"
 
 ## ▶️ Run locally
 
-streamlit run app.py
+```streamlit run app.py```
 
 ---
 
