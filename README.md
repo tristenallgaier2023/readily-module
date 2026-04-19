@@ -4,12 +4,16 @@ This project demonstrates a system for validating internal Policies and Procedur
 
 ---
 
-## 🚀 What it does
+## Problem
+
+Compliance analysts must manually interpret questionnaires and evolving Policy Guides, mapping questions and obligations to supporting language across hundreds of lengthy policy documents, a slow and error-prone process where semantic mismatches and missed requirements can lead to regulatory findings.
+
+## 🚀 Solution Overview
 
 ### 1. Parse questionnaire
 Upload a regulatory questionnaire and extract questionnaire items (individual compliance checks).
 
-### 2. Generate questionnaire from policy guide
+### 2. Parse policy guide
 Upload a policy guide and extract obligations, normalized into questionnaire items.
 
 ### 3. Validate against P&Ps
