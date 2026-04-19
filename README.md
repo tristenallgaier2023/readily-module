@@ -6,7 +6,7 @@ This project demonstrates a system for validating internal Policies and Procedur
 
 ## Problem
 
-Compliance analysts must manually interpret questionnaires and evolving Policy Guides, mapping questions and obligations to supporting language across hundreds of lengthy policy documents, a slow and error-prone process where semantic mismatches and missed requirements can lead to regulatory findings.
+Compliance analysts must manually interpret questionnaires and evolving policy guides, mapping questions and obligations to supporting language across hundreds of lengthy policy documents, a slow and error-prone process where semantic mismatches and missed requirements can lead to regulatory findings.
 
 ## 🚀 Solution Overview
 
