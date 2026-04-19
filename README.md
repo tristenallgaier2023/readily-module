@@ -123,7 +123,8 @@ This keeps the demo fast, low cost, and easy to verify.
 - Monitoring (logging, alerting, dashboards)  
 - Parallel processing to support larger datasets and reduce latency  
 - Integration with external P&P sources (for example Google Drive)  
-- Automatic detection of input type (questionnaire vs policy guide) to remove the need for user selection  
+- Automatic detection of input type (questionnaire vs policy guide) to remove the need for user selection
+- Improve evaluation and confidence scoring to better surface edge cases and contradictions  
 
 ---
 
